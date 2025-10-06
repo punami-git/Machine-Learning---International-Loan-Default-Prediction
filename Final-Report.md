@@ -1,6 +1,5 @@
 ﻿
 # **International Debt Statistics and Projection**
-## <a name="_5afctxl8crr"></a>**Team Members and Github Ids**
 
 ## <a name="_2qxuawuy760l"></a>**Introduction**
 Our overall goal is to develop a model that predicts the likelihood of a country defaulting on its external international loans via the World Bank or IMF. Unlike traditional models that rely solely on the financial factors of a country, our approach considers  the country’s historical debt statistics through a time series in addition to various socio-economic factors to assess its ability to repay external loans. 
@@ -169,6 +168,7 @@ Lastly, developing a user-friendly dashboard that presents dynamic risk assessme
 [^2]: *The Human Flourishing Program*. (n.d.). Retrieved from [Harvard University](https://hfh.fas.harvard.edu/global-flourishing-study)
 
 [^3]: Goswami, G. G., & Hossain, M. M. (2013). *From Judgmental Projection to Time Series Forecast: Does it Alter the Debt Sustainability Analysis of Bangladesh?* The Bangladesh Development Studies, 36(3), 1-41. [Link](https://www.jstor.org/stable/44730018)
+
 
 
 
